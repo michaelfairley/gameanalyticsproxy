@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/michaelfairley/gameanalyticsproxy",
+	"GoVersion": "go1.2",
+	"Deps": []
+}
